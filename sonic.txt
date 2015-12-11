@@ -1,0 +1,80 @@
+name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                    69
+       rx-bits-per-second:             379.4kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                    69
+       tx-bits-per-second:             260.4kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                   102
+       rx-bits-per-second:             569.4kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                    97
+       tx-bits-per-second:             443.1kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                    89
+       rx-bits-per-second:             492.1kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                   131
+       tx-bits-per-second:             916.7kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                    32
+       rx-bits-per-second:              81.8kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                    44
+       tx-bits-per-second:             319.5kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                    41
+       rx-bits-per-second:             324.6kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                    94
+       tx-bits-per-second:             551.1kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                   108
+       rx-bits-per-second:             654.8kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                    74
+       tx-bits-per-second:             151.5kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                   103
+       rx-bits-per-second:             577.6kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                   171
+       tx-bits-per-second:             1215.7Mbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
+                     name:  pppoe-Sonic Wireless
+    rx-packets-per-second:                    88
+       rx-bits-per-second:             530.0kbps
+      rx-drops-per-second:                     0
+     rx-errors-per-second:                     0
+    tx-packets-per-second:                    43
+       tx-bits-per-second:              46.6kbps
+      tx-drops-per-second:                     0
+     tx-errors-per-second:                     0
+
